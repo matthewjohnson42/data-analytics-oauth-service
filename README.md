@@ -1,2 +1,2 @@
-# data-analysis-oauth-service
+# data-analytics-oauth-service
 An OAuth 2.0 service for the data analytics app
